@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Mateus Galvão 😊
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mateus.galvao.camargo.contato@gmail.com)
-
 ![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-Galvao-de-Camargo&show_icons=true&theme=dark)
 
 ## Tecnologias que eu uso
