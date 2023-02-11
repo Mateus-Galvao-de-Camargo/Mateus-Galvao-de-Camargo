@@ -14,7 +14,7 @@
     
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Galvao-de-Camargo&layout=compact&bg_color=161616&text_color=ffffff&title_color=18f289&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Galvao-de-Camargo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-galvão-de-camargo-a29a5b253/)
