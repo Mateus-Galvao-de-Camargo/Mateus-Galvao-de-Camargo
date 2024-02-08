@@ -1,6 +1,6 @@
 ### Bem-vindo(a) à minha página 😎
 
-## Tecnologias que tenho usado:
+## Tech Stack:
 
 <div style="display: inline_block;">
     <img style="border-radius: 15px;" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
