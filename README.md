@@ -1,18 +1,48 @@
-### Bem-vindo(a) à minha página 😎
+### Olá, eu sou o Mateus 😎
 
-## Tech Stack:
+## Sou estudante de Engenharia de Software e Desenvolvimento de Sistemas
+- Atualmente procuro uma oportunidade de emprego
+- Sou mais focado em backend e banco de dados
+- Técnico em Desenvolvimento de Sistemas
+- Tenho conhecimento sobre: Programação Orientada a Objetos, git, documentação, requisitos, casos de uso e UML
+- Adoro usar as tecnologias para criar sistemas e resolver problemas propostos
 
-<div style="display: inline_block;">
-    <img style="border-radius: 15px;" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+## Tecnologias que conheço  
+BackEnd languages:
     <br>
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/java.svg"> Java
     <br>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
+        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/php.svg"> PHP
+    <br>
+        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/javascript.svg"> JavaScript
+    <br>
+        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/typescript.svg"> TypeScript
+    <br>
+        C
+    <br>
+    <br>
+    Bancos de Dados Relacionais:
+    <br>
+        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/mysql.svg"> MySQL
+    <br>
+        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/mariadb.svg"> MariaDB
+    <br>
+    <br>
+    Bancos de Dados Não Relacionais/NoSQL:
+    <br>
+        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/firebase.svg"> Firebase 
+    <br>
+    <br>
+    Mobile:
+    <br>
+        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/java.svg"> Java
+    <br>
+    <br>
+    frontend framework:
+    <br>
+        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/angular.svg"> Angular
 
-## Contato
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-galvão-de-camargo-a29a5b253/)
+## Contatos
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-galvão-de-camargo-a29a5b253/)
+[![Static Badge](https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&logoColor=white)](mailto:mateus.galvao.camargo.contato@gmail.com)
+
