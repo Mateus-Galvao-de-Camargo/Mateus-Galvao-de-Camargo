@@ -2,10 +2,9 @@
 
 ## Sou estudante de Engenharia de Software e Desenvolvimento de Sistemas
 - Atualmente procuro uma oportunidade de emprego
-- Sou mais focado em backend e banco de dados
 - Técnico em Desenvolvimento de Sistemas
-- Tenho conhecimento sobre: Programação Orientada a Objetos, git, documentação, requisitos, casos de uso e UML
-- Adoro usar as tecnologias para criar sistemas e resolver problemas propostos
+- Tenho conhecimento sobre: Programação Orientada a Objetos, MVC, API Rest, Node, git, documentação, UML
+- Adoro usar as tecnologias para criar sistemas que facilitem o dia a dia
 
 ## Tecnologias que conheço  
 BackEnd languages:
