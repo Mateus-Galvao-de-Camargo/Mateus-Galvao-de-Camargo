@@ -1,47 +1,23 @@
-### Olá, eu sou o Mateus 😎
+## Olá 😎
+<img src="https://github.com/user-attachments/assets/05d844c3-4f27-4b67-a981-e786577598eb" width=145 align="right"/>
 
-## Sou estudante de Engenharia de Software e Desenvolvimento de Sistemas
-- Atualmente procuro uma oportunidade de emprego
-- Técnico em Desenvolvimento de Sistemas
-- Tenho conhecimento sobre: Programação Orientada a Objetos, MVC, API Rest, Node, git, documentação, UML
-- Adoro usar as tecnologias para criar sistemas que facilitem o dia a dia
+### Sou estudante de Engenharia de Software e Desenvolvimento de Sistemas
+- Eu amo Java, PHP e Angular.
 
-## Tecnologias que conheço  
-BackEnd languages:
-    <br>
-        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/java.svg"> Java
-    <br>
-        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/php.svg"> PHP
-    <br>
-        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/javascript.svg"> JavaScript
-    <br>
-        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/typescript.svg"> TypeScript
-    <br>
-        C
-    <br>
-    <br>
-    Bancos de Dados Relacionais:
-    <br>
-        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/mysql.svg"> MySQL
-    <br>
-        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/mariadb.svg"> MariaDB
-    <br>
-    <br>
-    Bancos de Dados Não Relacionais/NoSQL:
-    <br>
-        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/firebase.svg"> Firebase 
-    <br>
-    <br>
-    Mobile:
-    <br>
-        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/java.svg"> Java
-    <br>
-    <br>
-    frontend framework:
-    <br>
-        <img height="24px" width="24px" src="https://raw.githubusercontent.com/Mateus-Galvao-de-Camargo/icones/11685c3781f4bbdf7e6d769dd9c986b88c4da48b/angular.svg"> Angular
+#### Entre em Contato ☎️
+<a href="https://www.instagram.com/mateusgalvaodecamargo/"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/E4405F"/><a/> <a href="mailto:mateus.galvao.camargo.contato@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335"/><a/> <a href="https://web.whatsapp.com/send?phone=5546991145079"><img height="32" width="32" src="https://cdn.simpleicons.org/whatsapp/25D366"/><a/> <a href="https://www.linkedin.com/in/mateus-galvão-de-camargo/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2"/><a/>
+  
+# Tecnologias
+<img src="https://github.com/user-attachments/assets/efb647f8-6883-4d68-ad85-cad1368afdea" width=150 />
 
-## Contatos
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-galvão-de-camargo-a29a5b253/)
-[![Static Badge](https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&logoColor=white)](mailto:mateus.galvao.camargo.contato@gmail.com)
+#### Frameworks
+<img height="32" width="32" src="https://cdn.simpleicons.org/spring/6DB33F" /> <img height="32" width="32" src="https://cdn.simpleicons.org/angular/DD1100" />
 
+#### Linguagens
+<img height="32" width="32" src="https://github.com/user-attachments/assets/e007cfcb-579b-4f92-a6eb-71ee1df364f0" /> <img height="32" width="32" src="https://cdn.simpleicons.org/php/777BB4" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+
+#### Bancos de Dados
+<img height="32" width="32" src="https://cdn.simpleicons.org/mysql/4479A1" /> <img height="32" width="32" src="https://cdn.simpleicons.org/mariadb/003545" /> <img height="32" width="32" src="https://cdn.simpleicons.org/firebase/DD2C00" />
+
+#### Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats-mateus-projects-850bd77f.vercel.app/api?username=Mateus-Galvao-de-Camargo)](https://github.com/anuraghazra/github-readme-stats)
