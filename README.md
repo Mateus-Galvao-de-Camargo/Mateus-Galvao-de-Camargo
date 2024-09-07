@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/05d844c3-4f27-4b67-a981-e786577598eb" width=250 align="right"/>
 
 ### Sou um Dev Fullstack
-- Mas amo Java, PHP e Angular.
+- Mas amo Java, PHP e C#.
 
 #### Entre em Contato ☎️
 <a href="https://www.instagram.com/mateusgalvaodecamargo/"><img height="56" width="56" src="https://cdn.simpleicons.org/instagram/E4405F"/><a/> <a href="mailto:mateus.galvao.camargo.contato@gmail.com"><img height="56" width="56" src="https://cdn.simpleicons.org/gmail/EA4335"/><a/> <a href="https://web.whatsapp.com/send?phone=5546991145079"><img height="56" width="56" src="https://cdn.simpleicons.org/whatsapp/25D366"/><a/> <a href="https://www.linkedin.com/in/mateus-galvão-de-camargo/"><img height="56" width="56" src="https://cdn.simpleicons.org/linkedin/0A66C2"/><a/>
