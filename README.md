@@ -27,5 +27,5 @@
 
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats-mateus-projects-850bd77f.vercel.app/api?username=Mateus-Galvao-de-Camargo&title_color=5f26d5&bg_color=00000000&text_color=5f26d5&show_icons=true&icon_color=5f26d5&border_color=5f26d5)
-![Top Langs](https://github-readme-stats-mateus-projects-850bd77f.vercel.app/api/top-langs/?username=Mateus-Galvao-de-Camargo&title_color=5f26d5&bg_color=00000000&text_color=5f26d5&layout=compact&border_color=5f26d5&hide=Hack&langs_count=8)
+![Top Langs](https://github-readme-stats-mateus-projects-850bd77f.vercel.app/api/top-langs/?username=Mateus-Galvao-de-Camargo&title_color=5f26d5&bg_color=00000000&text_color=5f26d5&layout=compact&border_color=5f26d5&hide=Hack,html,CSS,scss&langs_count=6)
 
