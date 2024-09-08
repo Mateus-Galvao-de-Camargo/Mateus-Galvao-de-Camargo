@@ -11,7 +11,7 @@
 <img src="https://github.com/user-attachments/assets/efb647f8-6883-4d68-ad85-cad1368afdea" width=250 />
 
 ### Frameworks
-<img height="56" width="56" src="https://cdn.simpleicons.org/spring/6DB33F"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/0d297f8b-45b4-4296-ad72-fa29a1bcb526"/> 
+<img height="56" width="56" src="https://cdn.simpleicons.org/spring/6DB33F"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/0d297f8b-45b4-4296-ad72-fa29a1bcb526"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/e7f313e5-9c62-4224-9037-96e665a5eea5"/> 
 
 ### Linguagens
 <img height="56" width="56" src="https://github.com/user-attachments/assets/115b1e71-1f1d-49b3-b72c-6f12b92d5adc"/> <img height="56" width="56" src="https://cdn.simpleicons.org/php/777BB4"/> <img height="56" width="56" src="https://cdn.simpleicons.org/javascript/F7DF1E"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/e53d5182-f949-4fe2-89a0-77072bf6a2a5"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/33eda0af-02af-43a3-97bd-f7a3af2172cf"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/36e508c5-c879-4bb6-921b-c1f191aa8f4a"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/b5a2fe4a-5b79-4e76-b633-8ab9dca7d7df"/>
