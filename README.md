@@ -1,28 +1,76 @@
 ## Olá 😎
 
-### Sou um Dev Júnior
-- E amo Java, PHP e C#.
+### Me chamo Mateus e sou um estudante querendo ser PROGRAMADOR
+- Eu sei lógica e dei uma olhada em muitas tecnologias!
+- Tenho vergonha de agir como se eu dominasse o assunto.
+- Eu sou usuário de Ubuntu e tô testando o Mint.
+- Qualquer que seja o assunto é só eu aprender.
+- comecei os estudos da área em 2022 no IF de SC e quem me ensinou foram os Incas e Astecas que usavam GoTo no milênio passado, apesar que eu gostei de aprender C e Java.
 
 #### Entre em Contato ☎️
-<a href="https://www.instagram.com/mateusgalvaodecamargo/"><img height="56" width="56" src="https://cdn.simpleicons.org/instagram/E4405F"/><a/> <a href="mailto:mateus.galvao.camargo.contato@gmail.com"><img height="56" width="56" src="https://cdn.simpleicons.org/gmail/EA4335"/><a/> <a href="https://web.whatsapp.com/send?phone=5546991145079"><img height="56" width="56" src="https://cdn.simpleicons.org/whatsapp/25D366"/><a/> <a href="https://www.linkedin.com/in/mateus-galvão-de-camargo/"><img height="56" width="56" src="https://cdn.simpleicons.org/linkedin/0A66C2"/><a/>
+<a href="mailto:mateus.galvao.camargo.contato@gmail.com">mateus.galvao.camargo.contato@gmail.com<a/>
+
+<a href="https://web.whatsapp.com/send?phone=5546991145079">(46) 99114-5079<a/>
+
+<a href="https://www.linkedin.com/in/mateus-galvão-de-camargo/">linkedin.com/in/mateus-galvão-de-camargo/<a/>
 
 # Tecnologias
+Aqui são listadas todas tecnologias que eu já mexi e gostei, algumas eu domino mais que outras, mas eu não domino completamente nada.
+## Explicação das notas:
+
+5/5 Conheço completamente esta tecnologia
+
+4/5 Usei bastante ou uso com frequência, sempre tem algo específico para aprender.
+
+3/5 Usei algumas vezes, sei usar os básicos sem preocupação.
+
+2,5/5 Usei até que bastante mas não me lembro direito.
+
+2/5 Usei pouco e não me aprofundei, não quis mais utilizar, ou não vi necessidade de aprender mais nos projetos em que usei essa tecnologia.
+
+1/5 Usei muito pouco e não estudei muito.
+
+*Eu não sou um HD, sei que você sabe disso, mas quero dizer que posso ter que pesquisar pra lembrar das coisas.
+
 ### Frameworks
-<img height="56" width="56" src="https://cdn.simpleicons.org/spring/6DB33F"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/0d297f8b-45b4-4296-ad72-fa29a1bcb526"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/e7f313e5-9c62-4224-9037-96e665a5eea5"/> 
+Next.js - 4/5
+
+Angular 2,5/5
+
+React 1/5
+
+SpringBoot 1/5
+
+Flutter 2/5
 
 ### Linguagens
-<img height="56" width="56" src="https://github.com/user-attachments/assets/115b1e71-1f1d-49b3-b72c-6f12b92d5adc"/> <img height="56" width="56" src="https://cdn.simpleicons.org/php/777BB4"/> <img height="56" width="56" src="https://cdn.simpleicons.org/javascript/F7DF1E"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/e53d5182-f949-4fe2-89a0-77072bf6a2a5"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/33eda0af-02af-43a3-97bd-f7a3af2172cf"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/36e508c5-c879-4bb6-921b-c1f191aa8f4a"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/b5a2fe4a-5b79-4e76-b633-8ab9dca7d7df"/>
+Java 4/5
+
+PHP 3/5
+
+JavaScript(e TypeScript) 4/5
+
+C# 2/5
+
+C 3/5
+
+Dart 1/5
 
 ### Bancos de Dados
-<img height="56" width="56" src="https://github.com/user-attachments/assets/e581111f-b0fa-4a92-ae36-d5bf75eddf6f"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/b045072c-cc60-4729-bef9-b4c9bab44bb3" /> <img height="56" width="56" src="https://github.com/user-attachments/assets/90f6f3f9-e0c8-4278-8337-a9d17c71e415"/>
+MySQL/MariaDB 4/5
 
-### IDEs e Ferramentas
-<img height="56" width="56" src="https://github.com/user-attachments/assets/105ba76d-030e-48bf-83f2-3025f7ce4d1c"/> <img height="56" width="56" src="https://cdn.simpleicons.org/eclipseide/2C2255"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/73b0cba4-bbed-4613-b838-befcd6e80d7d"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/95bde259-f1de-492d-84b3-c2f89476dc09"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/5f256c2e-d742-4b4b-9217-42458f2a9018"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/3663b2f4-df02-4765-afa4-e636861ac6a3"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/aff4a02f-83d0-47e9-9ca7-17992bb18b32"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/69d17383-2dd1-439c-aa88-3b5036279da3"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/e68c3350-d6c5-4a39-9027-e47d481d2333"/>
+Firebase 2/5
 
-### Por diversão 😄
-<img height="56" width="56" src="https://github.com/user-attachments/assets/c81ea993-42b6-4896-be8e-16e5fc5e0379"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/902c06d1-8153-4c39-8917-41fb36ded139"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/528ec492-7d0b-491c-b954-cc873ccc481f"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/883692d5-9de5-4f98-945c-51773542ff67"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/77edb04b-c639-4ed1-ba84-1fbc8e991502"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/010378f4-0d27-415c-90b4-cb2ec349c8ed"/> <img height="56" width="56" src="https://github.com/user-attachments/assets/7ddc5506-a6e0-4307-8107-c391238606fb"/>
+Postgresql 2/5
 
-### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats-mateus-projects-850bd77f.vercel.app/api?username=Mateus-Galvao-de-Camargo&title_color=5f26d5&bg_color=00000000&text_color=5f26d5&show_icons=true&icon_color=5f26d5&border_color=5f26d5)
+### Diversos
+Docker 2/5 Estou trabalhando mais nisso.
+
+Git 4/5
+
+HTTP 4/5
+
+REST 2/5
+
 ![Top Langs](https://github-readme-stats-mateus-projects-850bd77f.vercel.app/api/top-langs/?username=Mateus-Galvao-de-Camargo&title_color=5f26d5&bg_color=00000000&text_color=5f26d5&layout=compact&border_color=5f26d5&hide=Hack,html,CSS,scss&langs_count=6)
 
