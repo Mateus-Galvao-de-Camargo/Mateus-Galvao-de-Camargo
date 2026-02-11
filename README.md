@@ -1,12 +1,56 @@
-## Olá 😎
+👋 **Olá!**
 
-### Me chamo Mateus e sou um estudante querendo ser PROGRAMADOR
-- Eu sei lógica e dei uma olhada em muitas tecnologias!
-- Tenho vergonha de agir como se eu dominasse o assunto.
-- Eu sou usuário de Ubuntu e tô testando o Mint.
-- Qualquer que seja o assunto é só eu aprender.
-- comecei os estudos da área em 2022 no IF de SC e quem me ensinou foram os Incas e Astecas que usavam GoTo no milênio passado. O professor de estrutura de dados, professor Frank, disse que cada vez que a gente usasse break pra ficar saindo de loops uma girafa morria, e se alguém por acaso usasse goto a savana inteira ia de vala kkkk.
+Me chamo Mateus e estou construindo minha jornada como programador desde 2022.
 
+Gosto de entender como as coisas funcionam por trás das telas — seja backend, APIs, banco de dados ou até um problema estranho no Linux que ninguém sabe explicar.
+
+Não gosto de agir como se dominasse tudo. Prefiro dizer:
+
+“Eu sei fazer. Se eu não lembrar, eu descubro.”
+
+Acredito que qualquer assunto pode ser aprendido com tempo e dedicação.
+
+-----------------------------
+🚀 **Tecnologias que já usei**
+
+Tenho mais experiência com:
+
+Java
+
+JavaScript / TypeScript
+
+PHP
+
+MySQL / MariaDB
+
+Git
+
+Docker
+
+REST APIs
+
+-----------------------------
+**Também já trabalhei com:**
+
+Next.js
+
+Angular
+
+React
+
+Spring Boot
+
+Flutter
+
+C / C#
+
+PostgreSQL
+
+Firebase
+
+Não me considero “especialista absoluto” em nenhuma delas, mas tenho base sólida em lógica e consigo aprender rapidamente quando necessário.
+
+-----------------------------
 #### Entre em Contato ☎️
 <a href="mailto:mateus.galvao.camargo.contato@gmail.com">mateus.galvao.camargo.contato@gmail.com<a/>
 
