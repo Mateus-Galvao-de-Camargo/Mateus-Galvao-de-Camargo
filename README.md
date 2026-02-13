@@ -34,6 +34,10 @@ REST APIs
 
 Next.js
 
+C# / ASP.NET
+
+C
+
 Angular
 
 React
@@ -41,8 +45,6 @@ React
 Spring Boot
 
 Flutter
-
-C / C#
 
 PostgreSQL
 
