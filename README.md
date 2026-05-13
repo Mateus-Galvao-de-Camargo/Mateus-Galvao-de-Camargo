@@ -2,18 +2,16 @@
 
 Me chamo Mateus e estou construindo minha jornada como programador desde 2022.
 
-Gosto de entender como as coisas funcionam por trás das telas — seja backend, APIs, banco de dados ou até um problema estranho no Linux que ninguém sabe explicar.
+Gosto de entender como as coisas funcionam por trás das telas — seja backend, APIs, banco de dados ou até um problema estranho no Linux.
 
-Não gosto de agir como se dominasse tudo. Prefiro dizer:
+Não gosto de agir como se dominasse tudo. Mas eu já tentei aprender muitas coisas
 
-“Eu sei fazer. Se eu não lembrar, eu descubro.”
+Acredito que qualquer assunto pode ser aprendido com tempo e dedicação independentemente de quem queira aprender.
 
-Acredito que qualquer assunto pode ser aprendido com tempo e dedicação.
+Tenho meu humilde portfólio <a href="portifolio-mateus-gc.vercel.app/">portifolio-mateus-gc.vercel.app<a>
 
 -----------------------------
-🚀 **Tecnologias que já usei**
-
-Tenho mais experiência com:
+🚀 **Tecnologias que já usei e tenho confiaça de que sei algo sobre**
 
 Java
 
@@ -29,16 +27,11 @@ Docker
 
 REST APIs
 
------------------------------
-**Também já trabalhei com:**
-
 Next.js
 
 C# / ASP.NET
 
 C
-
-Angular
 
 React
 
